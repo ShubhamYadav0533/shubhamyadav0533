@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Shubham%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Building%20Scalable%20Web%20Systems%20%F0%9F%9A%80&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2ea44f,100:3fb950&height=200&section=header&text=Shubham%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Building%20Scalable%20Web%20Systems%20%F0%9F%9A%80&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+%26+High-Performance+Apps;System+Architect+%7C+Real-Time+Apps;3%2B+Years+of+Production+Experience)](https://github.com/denvercoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+%26+High-Performance+Apps;System+Architect+%7C+Real-Time+Apps;3%2B+Years+of+Production+Experience)](https://github.com/denvercoder1/readme-typing-svg)
 
 <!-- Profile Views & Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamYadav0533&color=1f6feb&style=flat-square&label=Profile+Views)](https://github.com/ShubhamYadav0533)
-[![GitHub followers](https://img.shields.io/github/followers/ShubhamYadav0533?label=Followers&style=flat-square&color=58a6ff)](https://github.com/ShubhamYadav0533)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://shubhamyadavdev.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamYadav0533&color=2ea44f&style=flat-square&label=Profile+Views)](https://github.com/ShubhamYadav0533)
+[![GitHub followers](https://img.shields.io/github/followers/ShubhamYadav0533?label=Followers&style=flat-square&color=2ea44f)](https://github.com/ShubhamYadav0533)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://shubhamyadavdev.vercel.app/)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Freelance%20%2F%20Remote-brightgreen?style=flat-square&logo=briefcase)](mailto:shubhamyadav0533@gmail.com)
 
 </div>
@@ -107,7 +107,7 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 <div align="center">
 
 ### 📈 Contribution Heatmap
-![Shubham's Contribution Chart](https://ghchart.rshah.org/58a6ff/ShubhamYadav0533)
+![Shubham's Contribution Chart](https://ghchart.rshah.org/2ea44f/ShubhamYadav0533)
 
 </div>
 
@@ -122,8 +122,8 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 <div align="center">
 
 <!-- Repository PR & Issue Activity -->
-<img src="https://img.shields.io/github/issues-pr/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=58a6ff&label=Open%20PRs" />
-<img src="https://img.shields.io/github/issues-pr-closed/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=1f6feb&label=Merged%20PRs" />
+<img src="https://img.shields.io/github/issues-pr/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=2ea44f&label=Open%20PRs" />
+<img src="https://img.shields.io/github/issues-pr-closed/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=2eb85c&label=Merged%20PRs" />
 <img src="https://img.shields.io/github/issues/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=0d1117&label=Open%20Issues" />
 
 </div>
@@ -158,7 +158,7 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:2ea44f,100:0d1117&height=100&section=footer" width="100%" />
 
 ⭐️ *Building scalable systems, not just projects*
 
