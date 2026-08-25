@@ -98,8 +98,8 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Shubham%20Yadav%27s%20GitHub%20Stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" />
 
 </div>
 
@@ -122,10 +122,10 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<!-- Repository PR & Issue Activity -->
-<img src="https://img.shields.io/github/issues-pr/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=238636&label=Open%20PRs" />
-<img src="https://img.shields.io/github/issues-pr-closed/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=15803d&label=Merged%20PRs" />
-<img src="https://img.shields.io/github/issues/ShubhamYadav0533/CRM-Colleges?style=for-the-badge&color=0d1117&label=Open%20Issues" />
+<!-- Repository Real Activity Badges -->
+<img src="https://img.shields.io/badge/Public%20Repos-18-238636?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/ShubhamYadav0533?style=for-the-badge&color=15803d&label=Followers" />
+<img src="https://img.shields.io/github/stars/ShubhamYadav0533/Portfolio?style=for-the-badge&color=0d1117&label=Portfolio%20Stars" />
 
 </div>
 
