@@ -98,7 +98,6 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Shubham%20Yadav%27s%20GitHub%20Stats" />
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" />
 
 </div>
@@ -114,7 +113,6 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 <!-- Summary Overview Cards -->
 <div align="center">
 
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamYadav0533&theme=github_dark" />
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamYadav0533&theme=github_dark" />
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamYadav0533&theme=github_dark" />
 
