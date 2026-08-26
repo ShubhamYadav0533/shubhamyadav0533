@@ -98,39 +98,39 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true" />
+<!-- GitHub Stats & Top Languages (Fast Active Mirror) -->
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <br/>
 
-<!-- GitHub Streak Stats (Daily Commits & Active Streaks) -->
+<!-- Daily Streak Stats (Official Active Demolab Server) -->
 <div align="center">
 
 ### 🔥 Daily Commit Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYadav0533&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=ShubhamYadav0533&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
 <br/>
 
-<!-- Daily Activity Bar Graph with Exact Day-by-Day Commit Counts -->
+<!-- Productive Commit Time & Activity Heatmap -->
 <div align="center">
 
-### 📈 Daily Commit Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamYadav0533&theme=github-dark&hide_border=true" width="100%" alt="Daily Activity Graph" />
+### ⏰ Productive Commit Time (Hourly Activity Breakdown)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamYadav0533&theme=github_dark" width="100%" alt="Productive Time Breakdown" />
 
 </div>
 
 <br/>
 
-<!-- Contribution Grid Snake Animation -->
+<!-- Profile Activity Summary -->
 <div align="center">
 
-### 🐍 Contribution Grid Heatmap
-<img src="https://raw.githubusercontent.com/ShubhamYadav0533/ShubhamYadav0533/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+### 📈 Contribution Heatmap & Profile Details
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav0533&theme=github_dark" width="100%" alt="Profile Activity Summary" />
 
 </div>
 
