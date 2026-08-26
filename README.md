@@ -98,19 +98,19 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages (Fast Active Mirror) -->
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<!-- GitHub Stats & Top Languages (Fast Active Mirror with All Commits & Private Count Enabled) -->
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ShubhamYadav0533&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShubhamYadav0533&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=2" />
 
 </div>
 
 <br/>
 
-<!-- Daily Streak Stats (Official Active Demolab Server) -->
+<!-- Daily Streak Stats (Official Active Demolab Server with Cache Buster) -->
 <div align="center">
 
 ### 🔥 Daily Commit Streak & Activity
-<img src="https://streak-stats.demolab.com?user=ShubhamYadav0533&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=ShubhamYadav0533&theme=dark&hide_border=true&v=2" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -120,7 +120,7 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 <div align="center">
 
 ### ⏰ Productive Commit Time (Hourly Activity Breakdown)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamYadav0533&theme=github_dark" width="100%" alt="Productive Time Breakdown" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamYadav0533&theme=github_dark&v=2" width="100%" alt="Productive Time Breakdown" />
 
 </div>
 
@@ -130,7 +130,7 @@ I am a **Full Stack Developer with 3+ years of experience** specializing in buil
 <div align="center">
 
 ### 📈 Contribution Heatmap & Profile Details
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav0533&theme=github_dark" width="100%" alt="Profile Activity Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamYadav0533&theme=github_dark&v=2" width="100%" alt="Profile Activity Summary" />
 
 </div>
 
